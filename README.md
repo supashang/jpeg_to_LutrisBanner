@@ -1,7 +1,7 @@
 # jpeg_to_LutrisBanner
 
 What does this do?
-A. It coverts custom .jpg images using ffmpeg to the size required by Lutris for its banner images. This script can be used within the Thunar file manager custom actions.
+A. It converts custom .jpg images using ffmpeg to the size required by Lutris for its banner images. This script can be used within the Thunar file manager custom actions.
 
 How to,
 
