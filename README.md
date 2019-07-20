@@ -19,3 +19,5 @@ Example: home/supa/.config/Thunar/custom_actions/lutris_banner_images.sh %N
 9. Click on the “Appearance” tab, set “File pattern” as * and tick the “Image Files” button. Press “OK” and “Close”.
 
 Now, when you right click on images you’d like to create to Lutris banners, you will see your new custom action in the menu. Convert and use as you wish. Your converted images will appear in the “Lutris_converted” folder.
+
+\m/
